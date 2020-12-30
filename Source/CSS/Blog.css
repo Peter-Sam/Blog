@@ -1,39 +1,45 @@
-body{
+body
+{
     background-color:#2d3238;
 }
 
 
 
-h1{
-    padding-left: 600px;
-    padding-bottom: 50px;
-    color: white;
-    
+h1
+{   
+  font-family: "Alegreya Sans";
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  color: white;  
 }
 
 .main-nav
 {
-  font-family: "Alegreya Sans",sans-serif;
-  margin-left: 425px;
+  font-family: "Alegreya Sans";
+  text-align: center;
+  margin-left: -32px;
+ 
+
 }
 
 .main-nav li
 {
-
-  display: inline;
+  display: inline-block;
   float: none;
 }
 
 .main-nav li a
 {
-  display:inline-block;
+
   color:white;
   padding: 50px 16px 50px 16px;
-  
-  
+  text-decoration: none;
+   
 }
 
-p{
+p
+{
   display: block;
   margin-top: 10px;
   margin-bottom: 110px;
