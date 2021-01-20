@@ -1,0 +1,87 @@
+body
+{
+    background-color:#2d3238;
+}
+
+.wrapper
+{
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding-top: 0px;
+  padding-right: 1.75em;
+  padding-bottom: 0px;
+  padding-left: 1.75em;
+  max-width: 1080px ;
+
+}
+
+.entry-content
+{
+  display: block;
+  margin: 16.625px 0px;
+}
+
+
+h1
+{   
+  font-family: "Alegreya Sans";
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  color: white;  
+}
+h2
+{
+  font-family: "Alegreya Sans";
+  font-style: normal;
+  text-align: center;
+  color:gray;
+}
+
+figcaption
+{
+  color:gray;
+  text-align: center;
+}
+
+footer
+{
+  color:gray;
+  text-align: center;
+}
+.main-nav
+{
+  font-family: "Alegreya Sans";
+  text-align: center;
+  margin-left: -32px;
+ 
+
+}
+
+.main-nav li
+{
+  display: inline-block;
+  float: none;
+}
+
+.main-nav li a
+{
+
+  color:white;
+  padding: 50px 16px 50px 16px;
+  text-decoration: none;
+   
+}
+.centerImage
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p
+{
+  display: block;
+  color:gray;
+  font-family: "Alegreya Sans",sans-serif;
+  font-size: 20px;
+}
