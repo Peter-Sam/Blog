@@ -67,7 +67,7 @@ footer
 .main-nav li a
 {
 
-  color:white;
+  color:gray;
   padding: 50px 16px 50px 16px;
   text-decoration: none;
    
@@ -84,4 +84,8 @@ p
   color:gray;
   font-family: "Alegreya Sans",sans-serif;
   font-size: 20px;
+}
+
+.main-nav li a:hover{
+  color:white;
 }
