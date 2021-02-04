@@ -3,7 +3,7 @@ body
     background-color:#2d3238;
 }
 
-.wrapper
+.container
 {
   box-sizing: border-box;
   margin: 0 auto;
