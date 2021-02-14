@@ -89,3 +89,12 @@ p
 .main-nav li a:hover{
   color:white;
 }
+
+
+.entry-content-container1{
+  box-shadow: 5px 5px 5px 5px #202325 ;
+}
+
+.entry-content-container2{
+  box-shadow: 5px 5px 5px 5px #202325 ;
+}
