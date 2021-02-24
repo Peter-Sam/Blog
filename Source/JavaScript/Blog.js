@@ -1,7 +1,4 @@
-<script type ="text/javascript">
-
-    function blogButton() {
-        console.log("hello")
-    }
+function blogButton() {
+    console.log("hello")
+}
     
-</script>
